@@ -1,27 +1,20 @@
-### Hi there 👋
+### Olá! Seja bem-vindo(a) ao meu perfil.
+### Heey! Welcome to my profile.
+### こんにちは！プロフィールへようこそ。
 
-<!--
-**Joaovitor1998/Joaovitor1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Junit
+- 😄 Pronouns: He/Him | Ele/Dele | 彼・彼の
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
  <div>
   <a href="https://github.com/Joaovitor1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor1998&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div><br>
+<br>
+<div>
+ <br>
     <img align="center" alt="Joao-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
     <img align="center" alt="Joao-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="Joao-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
