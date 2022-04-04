@@ -1,7 +1,8 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/xT1R9LqBXRHayhQneg/giphy-downsized-large.gif" width="300px">
+	
 <div id="badges" align="center">
-	<a href="https://www.linkedin.com/in/joao-vitor-fo1998/" target="_blank">
+	<a target="_blank" href="https://www.linkedin.com/in/joao-vitor-fo1998/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge">
  </a>
 	<a href="mailto:joaovitorf1998oliveira@gmail.com" target="_blank">
@@ -24,9 +25,9 @@
 - :heart: I'm really keen on Back End Developement
 - :seedling: Always looking forward to learning more and more about Java and its technologies
 - :dash: Besides programming languages, I'm also in love with language learning.
-- :mailbox: Contact me: <a href="https://www.linkedin.com/in/joao-vitor-fo1998/" target="_blank">
+- :mailbox: Contact me: <a target="_blank" href="https://www.linkedin.com/in/joao-vitor-fo1998/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white">
- </a> <a href="mailto:joaovitorf1998oliveira@gmail.com" target="_blank">
+ </a> <a target="_blank" href="mailto:joaovitorf1998oliveira@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
  </a>
 
