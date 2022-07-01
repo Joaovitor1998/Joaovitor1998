@@ -22,8 +22,8 @@
 </div>
 
 - :book: Currently I'm attending to a Fullstack Extension Course at SENAI CIMATEC 
-- :heart: I'm really keen on Back End Developement
-- :seedling: Always looking forward to learning more and more about Java and its technologies
+- :heart: I'm really keen on Full Stack Developement
+- :seedling: Always looking forward to learning more about Java/Angular and its technologies
 - :dash: Besides programming languages, I'm also in love with language learning.
 - :mailbox: Contact me: <a target="_blank" href="https://www.linkedin.com/in/joao-vitor-fo1998/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white">
