@@ -21,30 +21,37 @@
 	<h1>About me</h1>
 </div>
 
-- :book: Currently I'm attending to a Fullstack Extension Course at SENAI CIMATEC 
-- :heart: I'm really keen on Full Stack Developement
-- :seedling: Always looking forward to learning more about Java/Angular and its technologies
+- :book: Currently I'm majoring in Software Engineering (5th semester out of 9) 
+- :heart: I'm into Full Stack Developement (more keen into Back End Sstack)
+- :seedling: Always looking forward to learning something new about tech
 - :dash: Besides programming languages, I'm also in love with language learning.
 - :mailbox: Contact me: <a target="_blank" href="https://www.linkedin.com/in/joao-vitor-fo1998/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white">
- </a> <a target="_blank" href="mailto:joaovitorf1998oliveira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
- </a>
+  				<img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white">
+ 			</a>
+  			<a target="_blank" href="mailto:joaovitorf1998oliveira@gmail.com">
+  				<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
+ 			</a>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+ <!-- Nodejs -->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+ <!-- Golang -->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
  <!--Java-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <!-- Spring -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
- <!--Python-->
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
- <!--JavaScript-->
+ <!--Javascript-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <!--Typescript-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+ <!--Docker-->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+ <!--Git-->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <!--Angular-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
  <!--CSS-->
@@ -55,8 +62,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <!--PostgreSQL-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
- <!--Git-->
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ <!--MongoDB-->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
  </div>
 
 ---
